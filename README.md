@@ -8,6 +8,6 @@
 ### Topic: Build a complete website for a store and an admin panel to help store owners manage their website.
 ### Github: ginthanhnhat/Ecommerce_web (github.com)
 
-### Tran Thanh Nhat - ITITIU20266
+### Tran Thanh Nhat
 ### Date: 22/06/2024
 
